@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-	implementation 'org.springframework.boot:spring-boot-starter-web:3.0.4'
+	implementation 'org.springframework.boot:spring-boot-starter-web:3.0.3'
 	// https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-thymeleaf
 	// Importante que sea esta dependencia
 	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf:3.0.5'
